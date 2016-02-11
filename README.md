@@ -1,5 +1,6 @@
-Django OpenShift v2
-=
+
+#Django OpenShift v2
+
 This git repository helps you get up and running quickly with django v1.7+ and Openshift.
 ###Features
 * Ready to use for local development
@@ -108,3 +109,30 @@ This has not been tested thoroughly with Python 3, and currently there is a bug 
 
 ### Please Star if you like this repository.
 I don't publish many repositories, but if you like this project, please star it, thanks.
+=======
+CMPUT404-project-socialdistribution
+===================================
+
+CMPUT404-project-socialdistribution
+
+See project.org (plain-text/org-mode) for a description of the project.
+
+Make a distributed social network!
+
+Contributors / Licensing
+========================
+
+Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
+
+All text is licensed under the CC-BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/deed.en_US
+
+Contributors:
+
+    Karim Baaba
+    Ali Sajedi
+    Kyle Richelhoff
+    Chris Pavlicek
+    Derek Dowling
+    Olexiy Berjanskii
+    Erin Torbiak
+    Abram Hindle
